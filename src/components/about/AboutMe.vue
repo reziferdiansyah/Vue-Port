@@ -27,7 +27,7 @@ export default {
       bios: [
         {
           id: 1,
-          bio: "Hi there 👋 I'm Rezi Ferdiansyah. I am a Front end Developer",
+          bio: "Hi there 👋 I'm Rezi Ferdiansyah. I am a Front end Developer. As a Frontend Developer, I am responsible for developing new user-facing features, determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of frameworks and libraries to create the web pages.",
         },
       ],
     };
