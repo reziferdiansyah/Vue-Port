@@ -7,7 +7,7 @@
       <a
         href="https://www.instagram.com/reziferdiansyahhh/"
         target="__blank"
-        class="underline font-general-medium text-secondary-dark dark:text-secondary-light uppercase hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
+        class="underline font-general-medium text-secondary-dark dark:text-secondary-light uppercase hover:underline hover:text-blue-600 dark:hover:text-blue-300 duration-500"
         >{{ author }}</a
       >
     </div>
