@@ -30,6 +30,16 @@ const routes = [
       title: "About | Rezi Ferdiansyah ",
     },
   },
+
+  {
+    path: "/experience",
+    name: "Experience",
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/Experience.vue"),
+    meta: {
+      title: "Experience | Rezi Ferdiansyah ",
+    },
+  },
 ];
 
 const router = createRouter({
