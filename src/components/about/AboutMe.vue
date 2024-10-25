@@ -15,10 +15,6 @@
         >
           {{ bio.bio }}
         </p>
-        <ul>Below are some of my work experiences</ul>
-        <li>TEST</li>
-        <li>TEST</li>
-        <li>TEST</li>
       </div>
     </div>
   </div>
