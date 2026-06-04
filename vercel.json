@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://rezi.inovasiweb.com/$1",
+      "permanent": true
+    }
+  ]
+}
